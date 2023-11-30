@@ -106,13 +106,13 @@ nav ul li:hover{
   }
 
   /* Use this if you will like to display projects in a different way */
-  /* .project:first-child {
+  .project:first-child {
     align-self: flex-start;
   }
 
   .project:last-child {
     align-self: flex-end;
-  } */
+  }
 
   .project-img {
     width: 100%;
